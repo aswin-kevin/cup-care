@@ -32,7 +32,9 @@ export default function SecondHome() {
             materials.
           </div>
         </p>
-        <h3 className="text-xl md:text-2xl mb-3">How It Works:</h3>
+        <h3 className="text-xl md:text-2xl mb-3 font-semibold">
+          How It Works:
+        </h3>
         <ol className="list-decimal list-inside space-y-2 mb-5">
           <li>
             Empty the liquid: Visit our collection point at Research Park mess,
@@ -48,7 +50,9 @@ export default function SecondHome() {
             diverting them from landfills.
           </li>
         </ol>
-        <h3 className="text-xl md:text-2xl mb-3">Benefits of Joining:</h3>
+        <h3 className="text-xl md:text-2xl mb-3 font-semibold">
+          Benefits of Joining:
+        </h3>
         <ul className="list-disc list-inside space-y-2 mb-5">
           <li>
             Environmental Impact: Reduce your carbon footprint by recycling
@@ -63,7 +67,9 @@ export default function SecondHome() {
             responsible waste disposal and inspire others to join the cause.
           </li>
         </ul>
-        <h3 className="text-xl md:text-2xl mb-3">Join Us Today!</h3>
+        <h3 className="text-xl md:text-2xl mb-3 font-semibold">
+          Join Us Today!
+        </h3>
         <p className="mb-5">
           Make a positive change by participating in our Paper Cup Recycling
           Initiative. Every cup you recycle is a step towards a more sustainable
