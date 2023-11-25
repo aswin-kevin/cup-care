@@ -21,7 +21,7 @@ export default function SecondHome() {
           Why Paper Cup Recycling Matters:
         </h3>
         <p className="mb-5">
-          <div className="font-mono mb-2">
+          <div className="mb-2">
             Did you know that a significant number of paper cups end up in
             landfills every day?
           </div>
